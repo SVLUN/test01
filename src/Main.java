@@ -32,6 +32,8 @@ public class Main {
         //Unary Operator example
         UnaryOperator<String> str  = (msg)-> msg.toUpperCase();
         System.out.println(str.apply("This is my message in upper case"));
+        System.out.println("Push 2");
     }
 // en extra rad
+    // en extra rad till
 }
